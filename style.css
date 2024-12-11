@@ -1,4 +1,41 @@
 .one{
     color:blueviolet;
 }
+.two{
+    color: red;
+}
+.three{
+    color: blue;
+}
+.four{
+    color: green;
+
+}
+
+h1{
+    font-size: 30px;
+}
+h2{
+    color: blue;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    text-align:center;
+
+}
+h5{
+    text-decoration: overline;
+    
+
+}
+p{
+    text-decoration: line-through
+}
+h6{
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+}
 
