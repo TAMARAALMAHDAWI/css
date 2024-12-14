@@ -11,7 +11,7 @@
     color: green;
 
 }
-
+/*indx2*/
 h1{
     font-size: 30px;
 }
@@ -19,18 +19,20 @@ h2{
     color: blue;
 }
 h3{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #9b6197;
 }
 h4{
     text-align:center;
 
 }
-h5{
+#h1{
     text-decoration: overline;
-    
+
+
 
 }
-p{
+.p1{
     text-decoration: line-through
 }
 h6{
@@ -38,4 +40,247 @@ h6{
     background-repeat: no-repeat, repeat;
     padding: 15px;
 }
+.t{
+    background-image: url("C:\Users\Orange\Desktop\css\f8d7ec96581ae3362c623c0832c0b069.jpg");
+}
+
+.s{
+    background-image: url("C:\Users\Orange\Desktop\css\f8d7ec96581ae3362c623c0832c0b069.jpg");
+}
+/*task4*/
+.t1{
+    background-color:gray ;
+}
+.t2{ color: aliceblue;
+    background-color: black;
+    text-align:center
+}
+.z{
+    color: red;
+}
+.m{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+.n{
+    color: red;
+}
+.w{
+    text-decoration: line-through;
+}
+
+
+/*task5*/
+.gb{
+    background-image:url(css/image\ 5.png)
+}
+.hr{
+    text-align: right;
+    background-color: aliceblue;
+    font-size: small;
+    
+    
+}
+.m3{
+    color: red;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.je{
+    background-color: aliceblue;
+}
+.s4{
+    background-color: goldenrod;
+    color: red;
+}
+
+    
+
+
+
+
+
+
+/*indx6*/
+.ter{
+    height: 1000px;
+    background-image: url(css/image\ 5.png);
+    
+    
+    
+    
+    background-repeat:repeat-y;
+    height: 1000px;
+}
+
+/*index7*/
+.g{
+    background-image:url(css/imag\ 7.png);
+    
+
+
+
+}
+.k{
+    background-color: aliceblue;
+    color: red;
+    text-decoration: underline;
+}
+.f{
+    background-color: aliceblue;
+}
+
+
+/*index8*/
+.o{
+    color: red;
+    text-decoration: underline;
+}
+.q{
+    background-color: rgb(229, 42, 79);
+    color: aliceblue;
+}
+
+/*index9*/
+.c{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+
+}
+.d2{
+   background: linear-gradient(
+        to right, 
+        #a86aa4 50%, 
+        #cc6b8e 62%, 
+        #f3a469 87%, 
+        #f7c978 100%
+    );
+    
+}
+
+/*index10*/
+.item1{
+    color: aliceblue;
+    background-color: blue;
+}
+.item2{
+    color: black;
+    background-color: aliceblue;
+}
+.item2{
+    color: aliceblue;
+    background-color: blue;
+}
+.item3{
+    color: aliceblue;
+    background-color: blue;
+}
+.item4{
+    color: black;
+    background-color: aliceblue;
+}
+.item5{
+    color: aliceblue;
+    background-color: deeppink;
+}
+.item6{
+    color: black;
+    background-color: aliceblue;
+}
+.item7{
+    color: aliceblue;
+    background-color: coral;
+    font-family: fantasy;
+}
+
+/*index11*/
+.z1{
+    background-color: #f7c978;
+}
+.v2{
+    background-color: brown;
+    color: aliceblue;
+text-align: center;
+
+
+
+}
+/*index*/
+.mg5{
+    background-color: #f7dcae;
+    color: red;
+}
+.kr5{
+    background-color: blue;
+}
+
+
+
+/*index13*/
+.j13{
+    height: 700;
+    background-image:url(imag13.png ),url(imag13x.png);
+    background-repeat: repeat-y,repeat-x;
+
+
+    
+/*index14*/
+}
+.h14{
+    background-color: #f7dcae;
+
+
+}
+.fg2{
+    color: brown;
+}
+.mn3{
+    
+}
+.zx{
+    font-weight: bold ;
+    color: darkblue;
+}
+.cv{
+    
+    font-weight: bold ;
+    color: blueviolet;
+}
+.ma{
+    font-weight: bold ;
+    color: red;
+}
+.o5{
+    font-weight: bold ;
+    color: aqua;
+}
+.k6{
+    font-weight: bold ;
+    color: aqua;
+}
+.fj3{
+    font-weight: bold ;
+    color: darkblue;
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+       
+
 
